@@ -1,0 +1,34 @@
+{
+  "olpVersion" : "0.1",
+
+  "paths" : [
+    {
+      "name" : "general-riak",
+      "title" : "Diving into Riak",
+      "description" : "An introduction to Riak using Python and HTTP API",
+      "privacy" : "public",
+      "pages" : [
+        {"title" : "Welcome", "content" : "./context-pages/welcome.md"},
+        {"module" : "before-we-begin"},
+        {"title" : "Prep your mind and machine", "content" : "./context-pages/prepare.md"},
+        {"title" : "Diving in with Python", "content" : "./context-pages/python.md"},
+        {"title" : "Just testing things out", "content" : "./context-pages/http-api.md"},
+        {"title" : "But I like Clojure", "content" : "./context-pages/clojure.md"},
+        {"module" : "conclusion"},
+        {"title" : "Live long and prosper", "content" : "./context-pages/live-long.md"}
+      ]
+    }
+  ],
+
+  "modules" : [
+    {
+      "olm" : "./modules/before-we-begin.md"
+    },
+    {
+      "olm" : "./modules/conclusion.md"
+    }
+  ],
+
+  "assets" : [
+  ]
+}
