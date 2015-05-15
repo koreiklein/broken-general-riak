@@ -1,6 +1,7 @@
 <!--
 name: before-we-begin
 version : "0.1"
+freshnessDate: 2014-12-05
 title : "Before We Begin"
 description: "Set expectations and assess initial confidence."
 license : "CC Attribution-ShareAlike 4.0"
